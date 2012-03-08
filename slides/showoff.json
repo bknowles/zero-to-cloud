@@ -2,7 +2,8 @@
   "name": "From Zero to Cloud in 90 Days with Chef",
   "sections": [
     "intro",
-    "part2"
+    "part2",
+    "lessons"
   ],
   "pdf_options": {
     "page_size": "Letter",

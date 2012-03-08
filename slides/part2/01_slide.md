@@ -1,4 +1,4 @@
-# 2nd Problem
+# Problem
 
 * I knew chef existed, but that was about it
 
@@ -9,9 +9,9 @@
 
 * I am __not__ a developer
 
-.notes I'm a mail systems guy.  I'm a DNS guy.  I'm an NTP guy.  I do
-systems infrastructure.  I help design and implement highly scalable
-systems.  But I had no previous cloud experience.
+.notes I am a mail systems guy.  I am a DNS guy.  I am an NTP guy.
+I do systems infrastructure.  I help design and implement highly
+scalable systems.  But I had no previous cloud experience.
 
 # On the Plus Side
 
