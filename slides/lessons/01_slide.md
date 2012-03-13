@@ -2,12 +2,12 @@
 
 1. Know Yourself
 
-    * What is it that allows you to stay at a suboptimal job?
-	+ The People?
-	+ The Work?
-	+ The Money?
-    * For Me
-	+ People >> Work >> Money
+* What is it that allows you to stay at a suboptimal job?
+    + The People?
+    + The Work?
+    + The Money?
+* For Me
+    + People >> Work >> Money
 
 .notes 30 seconds -- talk about what kept you working at the library for
 4.5 years
@@ -17,9 +17,9 @@
 1. Know Yourself
 1. Tools First
 
-    If I had eight hours to chop down a tree, I'd spend six hours
-    sharpening my axe.  Give me six hours to chop down a tree and
-    I will spend the first four sharpening the axe. -- Abraham Lincoln
+> "If I had eight hours to chop down a tree, I'd spend six hours
+> sharpening my axe.  Give me six hours to chop down a tree and I
+> will spend the first four sharpening the axe." -- Abraham Lincoln
 
 .notes 30 seconds -- talk about building the tools for building a
 Statistical Quality Control DBMS for Imprimis
@@ -30,9 +30,9 @@ Statistical Quality Control DBMS for Imprimis
 1. Tools First
 1. Value of Education, Dogfood, & #1 Revisited
 
-    * Humans tend to not value something until it is gone or they are no longer there 
-    * Eating your own dogfood is a sign that you are committed to succeed and you will bet your own business on your product
-        + Don't lose sight of who the real customer(s) is (are)
+* Humans tend to not value something until it is gone or they are no longer there 
+* Eating your own dogfood is a sign that you are committed to succeed and you will bet your own business on your product
+    + __However__ -- Don't lose sight of who the real customer(s) is (are)
 
 .notes 15 seconds -- talk about sorting algorithms and how that made you
 appreciate your education.  30 seconds -- talk about DCA being responsible
@@ -47,8 +47,8 @@ invalid IP address ranges
 1. Value of Education, Dogfood, & #1 Revisited
 1. DevOps vs. Politics
 
-    * For DevOps to be successful, you __MUST__ have complete buy-in from stem-to-stern
-    * As soon as a single person isn't 100% committed to the teamwork required, the whole corporate train starts going off the rails
+* For DevOps to be successful, you __MUST__ have complete buy-in from stem-to-stern
+* As soon as a single person isn't 100% committed to the teamwork required, the whole corporate train starts going off the rails
 
 .notes 30 seconds -- talk about what it was like to work side-by-side with (and
 for) the developers at AOL, versus what happened when all the Ops personnel
@@ -62,9 +62,9 @@ got ripped out and put into a separate organization
 1. DevOps vs. Politics
 1. Family vs. Job, Value of Networking, & Rule of Three
 
-    * Not Company vs. Home Life, but Company __AS__ Family, vs. Company __AS__ Job
-    * The Collective is Much More Resourceful and Much Smarter than the Individual
-    * However Long You Honestly Think it will Take, Multiply by Three
+* Not Company vs. Home Life, but Company __AS__ Family, vs. Company __AS__ Job
+* The Collective is Much More Resourceful and Much Smarter than the Individual
+* However Long You Honestly Think it will Take, Multiply by Three
 
 .notes 15 seconds -- talk about how CT pitched itself as a family, but
 treated people like they were employees.  30 seconds -- talk about what it
@@ -83,10 +83,10 @@ unknown and unknowable factors.
 1. Family vs. Job, Value of Networking, & Rule of Three
 1. More Value of Communities & Preparing to Speak/Teach
 
-    * Experienced Smart People doing Intelligent Design with Open Source can lead to Novel and Ground Breaking Work
-        + Which can lead to invitations to speak at conferences
-            - Which can lead to meeting lots of other very experienced and smart people
-	+ Preparing to speak at a conference or teach a tutorial tends to force me to really dig deep to completely and totally understand the material
+* Experienced Smart People doing Intelligent Design with Open Source can lead to Novel and Ground Breaking Work
+    + Which can lead to invitations to speak at conferences
+	- Which can lead to meeting lots of other very experienced and smart people
+    + Preparing to speak at a conference or teach a tutorial tends to force me to really dig deep to completely and totally understand the material
 
 .notes 30 seconds -- talk about doing work at Skynet that was actually
 kind of ground-breaking and how that led to meeting people at many
@@ -104,9 +104,9 @@ learn the material backwards and forwards.
 1. More Value of Communities & Preparing to Speak/Teach
 1. Location & Localization vs. Culturation & Distance
 
-    * Signficant physical distance makes work/life relationships hard
-    * Significant cultural and/or linguistic distance makes them harder
-    * Combine with economic downturn, and you may have the Perfect Storm
+* Signficant physical distance makes work/life relationships hard
+* Significant cultural and/or linguistic distance makes them harder
+* Combine with economic downturn, and you may have the Perfect Storm
 
 .notes 30 seconds -- (Snow) talk about your view that if you're in a foreign
 place you really need to learn the language and the culture no matter what, 
@@ -143,7 +143,7 @@ the time when you could get it will have long since passed.
 1. If You Don't Have the Proof, "It" Doesn't Exist
 1. Choose Your Employers and Co-Workers Wisely
 
-    * Hiring should be looked at as Talent Acquisition
+* Hiring should be looked at as Talent Acquisition
 
 .notes 30 seconds -- Ideally, the people you work for should be the kind
 of people you would want as friends even if you weren't working there.  And
