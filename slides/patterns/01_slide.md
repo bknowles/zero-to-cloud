@@ -165,7 +165,7 @@ back to the previous version, if the deployment does fail.
 1. Monitoring Is Just Continuous System/Service Testing
 1. [ChaosMonkey](http://www.readwriteweb.com/cloud/2010/12/chaos-monkey-how-netflix-uses.php) Is The (Current) Holy Grail
 
-* Failure will happen -- It's not a matter of if, but when
+* Failure __will__ happen -- It's not a matter of __if__, but __when__
     + What if you could have some control over when failure occurs and how
 your systems respond?
 
