@@ -163,6 +163,27 @@ back to the previous version, if the deployment does fail.
 1. Use Automated Testing
 1. Use Continuous Integration/Deployment
 1. Monitoring Is Just Continuous System/Service Testing
+1. Logging is Monitoring Too
+
+* Logging is just another way to monitor what is going on with your systems & applications
+    + Forwarding & Gathering  -- syslog-based (e.g., rsyslog & syslog-ng) and agent-based (incl. graylog agent, logstash, Splunk forwarders, etc...)
+    + Analytics (e.g., graylog2, logstash, Splunk, etc...)
+* Logging and log analysis is just as critical (if not more so) as monitoring
+    + System, Service, and Application monitoring tell you __what__ is happening
+    + Log processing is more likely to be able to tell you __how__ and __why__
+
+# Patterns & Anti-Patterns
+
+1. Make It Work, Then Make It Pretty
+1. Publish Early, Publish Often
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
+1. One Github Repo per Chef Cookbook
+1. Use Code Reviews
+1. Use Automated Testing
+1. Use Continuous Integration/Deployment
+1. Monitoring Is Just Continuous System/Service Testing
+1. Logging is Monitoring Too
 1. [ChaosMonkey](http://www.readwriteweb.com/cloud/2010/12/chaos-monkey-how-netflix-uses.php) Is The (Current) Holy Grail
 
 * Failure __will__ happen -- It's not a matter of __if__, but __when__
