@@ -3,7 +3,8 @@
   "sections": [
     "intro",
     "part2",
-    "lessons"
+    "lessons",
+    "patterns"
   ],
   "pdf_options": {
     "page_size": "Letter",
