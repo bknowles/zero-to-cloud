@@ -86,7 +86,7 @@ unknown and unknowable factors.
 * Experienced Smart People doing Intelligent Design with Open Source can lead to Novel and Ground Breaking Work
     + Which can lead to invitations to speak at conferences
 	- Which can lead to meeting lots of other very experienced and smart people
-    + Preparing to speak at a conference or teach a tutorial tends to force me to really dig deep to completely and totally understand the material
+* Preparing to speak at a conference or teach a tutorial tends to force me to really dig deep to completely and totally understand the material
 
 .notes 30 seconds -- talk about doing work at Skynet that was actually
 kind of ground-breaking and how that led to meeting people at many
