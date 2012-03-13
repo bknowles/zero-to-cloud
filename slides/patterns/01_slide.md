@@ -2,7 +2,7 @@
 
 1. Make It Work, Then Make It Pretty
 
-* Doing part one without part two is an anti-pattern
+* Doing part one without part two is an __anti-pattern__
     + You will have jury-rigged a landmine in your infrastructure
     + Then foreverafter, you must always walk on eggshells around it
     + In twenty ${time-units} you won't remember what you did, why, or how and it __WILL__ blow up in your face
@@ -25,9 +25,9 @@ or not the idea will actually work.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
+1. Use [Git](http://git-scm.com/)
 
-* All tools for chef that assist with SCM workflow integration will assume git
+* All tools for Chef that assist with SCM workflow will assume [git](http://git-scm.com/)
     + Probably won't work with anything else
 * As a Distributed VCS, git encourages frequent small commits, where tags and branches are trivially easy
 * [WhyGitIsBetterThanX](http://whygitisbetterthanx.com/)
@@ -36,8 +36,8 @@ or not the idea will actually work.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 
 * Github is Facebook+LinkedIn for Developers & DevOps
     + It's how you show prospective employers what work you've done
@@ -52,8 +52,8 @@ or not the idea will actually work.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 
 * With Git and Github, collaboration occurs primarily at the repo level -- forking, sharing, remotes, committing, etc...
@@ -65,8 +65,8 @@ or not the idea will actually work.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 1. Use Code Reviews
 
@@ -77,16 +77,16 @@ or not the idea will actually work.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 1. Use Code Reviews
 1. Use Automated Testing and Test Driven Development
 
 * Chef [minitest](https://github.com/seattlerb/minitest) and
 [Rspec](https://github.com/acrmp/chefspec) are improving but still
-alpha/beta quality code, and still not as well documented as they
-should be.
+beta quality code, and still not as well documented as they should
+be.
 
 * [Cucumber-chef](https://github.com/Atalanta/cucumber-chef) is
 currently dependent on Amazon EC2, and needs more work as well as
@@ -100,14 +100,15 @@ with Chef](http://shop.oreilly.com/product/0636920020042.do)).
 
 .notes Whether it is Unit Testing, Integration Testing, Regression
 Testing, Stress Testing, Fuzzing, whatever, it doesn't matter -- do as
-much as you can now, automate it now, and add more as you can.
+much as you can now, automate it as soon as you can, and add more as
+quickly as you can.
 
 # Patterns & Anti-Patterns
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 1. Use Code Reviews
 1. Use Automated Testing
@@ -120,6 +121,9 @@ important than doing CI in some fashion
     the tool to use Jenkins to drive continuous deployment and
     synchronization of your Chef Environments from a git repository
 
+* Chef is all about automating the management of the configuration of your
+infrastructure, and CI tools like Jenkins dovetail naturally with that
+
 .notes If you do all the other things, then with proper CI/CD, you should
 be able to deploy at will, tens or even hundreds of times per day,
 and with virtually no risk of causing problems for your production
@@ -130,8 +134,8 @@ back to the previous version, if the deployment does fail.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 1. Use Code Reviews
 1. Use Automated Testing
@@ -152,8 +156,8 @@ back to the previous version, if the deployment does fail.
 
 1. Make It Work, Then Make It Pretty
 1. Publish Early, Publish Often
-1. Use Git
-1. Use Github
+1. Use [Git](http://git-scm.com/)
+1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
 1. Use Code Reviews
 1. Use Automated Testing
@@ -164,3 +168,5 @@ back to the previous version, if the deployment does fail.
 * Failure will happen -- It's not a matter of if, but when
     + What if you could have some control over when failure occurs and how
 your systems respond?
+
+# Questions?
