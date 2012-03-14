@@ -118,8 +118,7 @@ said verbally won't hold any weight in the future.
 
 # Questions?
 
-* Name: Brad Knowles
-* Contact
+# Contact
     * E-mail: bknowles@ihiji.com
     * Twitter: @bradknowles
     * github: bknowles
