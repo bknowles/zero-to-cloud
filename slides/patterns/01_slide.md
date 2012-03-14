@@ -98,9 +98,10 @@ with Chef](http://shop.oreilly.com/product/0636920020042.do)).
       the key people to follow for all types of TDD/Behaviour Driven
       Development, and not just cucumber-chef
 
-.notes Whether it is Unit Testing, Integration Testing, Regression
-Testing, Stress Testing, Fuzzing, whatever, it doesn't matter -- do as
-much as you can now, automate it as soon as you can, and add more as
+.notes Whether it is Unit Testing, Integration Testing (check out
+[Toft](https://github.com/exceedhl/toft)), Regression Testing,
+Stress Testing, Fuzzing, whatever, it doesn't matter -- do as much
+as you can now, automate it as soon as you can, and add more as
 quickly as you can.
 
 # Patterns & Anti-Patterns
@@ -191,3 +192,9 @@ back to the previous version, if the deployment does fail.
 your systems respond?
 
 # Questions?
+
+* Name: Brad Knowles
+* Contact
+    * E-mail: bknowles@ihiji.com
+    * Twitter: @bradknowles
+    * github: bknowles
