@@ -1,11 +1,10 @@
-# Second Problem
+# Problem
 
-* I knew chef existed, but that was about it
-
-* I had a little prior exposure to configuration management tools (cfengine, bcfg2)
-    + Only ever as a user of their services
-    + Never as an admin or engineer who implemented them
-
+* I knew chef existed
+    + But that was about it
+* I had little prior exposure to CM tools
+  + Only ever as a user of their services
+  + Never as an engineer who implemented them
 * I am __not__ a developer
 
 .notes I am a mail systems guy.  I am a DNS guy.  I am an NTP guy.
@@ -14,11 +13,9 @@ scalable systems.  But I had no previous cloud experience.
 
 # On the Plus Side
 
-* I did have 20+ years of experience as a Unix/Linux System Administrator/Engineer/Consultant
-
+* I did have 20+ years of experience as a Unix System Engineer/Consultant
 * I knew and trusted Matt Ray from his days at Zenoss
-
-* Matt convinced both me and the customer that I could do this job with some training and hands-on experience
+* Matt convinced us both that I could do this job with some training -- and some hands-on experience
 
 # Solution Diagram
 
