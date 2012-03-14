@@ -5,6 +5,7 @@
 1. Use [Git](http://git-scm.com/)
 1. Use [Github](https://github.com/)
 1. One Github Repo per Chef Cookbook
+1. Use All Available Resources for Help
 1. Use Code Reviews
 1. Use Automated Testing
 1. Use Continuous Integration/Deployment
@@ -54,6 +55,25 @@ or not the idea will actually work.
     + Each Chef cookbook should be largely standalone
     + Therefore, each Chef cookbook should be a separate repo
     + Can combine multiple repos together with [Librarian](https://github.com/applicationsonline/librarian), [Braid](https://github.com/evilchelu/braid/wiki), or git submodules
+
+# Use All Available Resources for Help
+
+* No one can be an expert on everything
+* Whatever you're trying to do, someone else has probably already tried it
+* Don't stubbornly insist on re-inventing the wheel
+* Use
+    + Wiki: http://wiki.opscode.com/
+    + Bug Tracker: http://tickets.opscode.com/
+    + Community Cookbooks: http://community.opscode.com/
+    + Community Mailing list: chef@lists.opscode.com
+    + irc: #chef on irc.freenode.net
+    + Hosted Chef:
+        - Free for first five clients
+        - Free access to Opscode Support: support@opscode.com
+
+.notes Opscode support for free Hosted Chef customers is "best effort", but
+it's real live support from real live human beings who actually work at
+Opscode and who generally have a clue or three
 
 # Use Code Reviews
 
