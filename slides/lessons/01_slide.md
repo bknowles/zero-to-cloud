@@ -26,10 +26,10 @@
 
 Quote:
 
-    "If I had eight hours to chop down a tree, I'd spend six
-    hours sharpening my axe.  Give me six hours to chop down a
-    tree and I will spend the first four sharpening the axe."
-    -- Abraham Lincoln
+    "If I had eight hours to chop down a tree, I'd spend
+    six hours sharpening my axe.  Give me six hours to
+    chop down a tree and I will spend the first four
+    sharpening the axe." -- Abraham Lincoln
 
 .notes 30 seconds -- talk about building the tools for building a
 Statistical Quality Control DBMS for Imprimis
