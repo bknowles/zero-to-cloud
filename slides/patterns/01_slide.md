@@ -59,8 +59,8 @@ or not the idea will actually work.
 # Use All Available Resources for Help
 
 * No one can be an expert on everything
-* Whatever you're trying to do, someone else has probably already tried it
-* Don't stubbornly insist on re-inventing the wheel
+    + Whatever you're trying to do, someone else has probably already tried it
+    + Don't stubbornly insist on re-inventing the wheel
 * Use
     + Wiki: http://wiki.opscode.com/
     + Bug Tracker: http://tickets.opscode.com/
