@@ -62,6 +62,8 @@ or not the idea will actually work.
     + Whatever you're trying to do, someone else has probably already tried it
     + Don't stubbornly insist on re-inventing the wheel
 * Use
+    + Google: "[How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html#translations)"
+    + Screencasts: [http://opscode.blip.tv](http://opscode.blip.tv)
     + Wiki: [http://wiki.opscode.com/](http://wiki.opscode.com/)
     + Bug Tracker: [http://tickets.opscode.com/](http://tickets.opscode.com/)
     + Community Cookbooks: [http://community.opscode.com/cookbooks](http://community.opscode.com/cookbooks)
