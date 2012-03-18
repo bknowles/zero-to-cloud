@@ -62,11 +62,11 @@ or not the idea will actually work.
     + Whatever you're trying to do, someone else has probably already tried it
     + Don't stubbornly insist on re-inventing the wheel
 * Use
-    + Wiki: http://wiki.opscode.com/
-    + Bug Tracker: http://tickets.opscode.com/
-    + Community Cookbooks: http://community.opscode.com/
-    + Community Mailing list: chef@lists.opscode.com
-    + irc: #chef on irc.freenode.net
+    + Wiki: [http://wiki.opscode.com/](http://wiki.opscode.com/)
+    + Bug Tracker: [http://tickets.opscode.com/](http://tickets.opscode.com/)
+    + Community Cookbooks: [http://community.opscode.com/cookbooks](http://community.opscode.com/cookbooks)
+    + Chef Mailing list: [http://lists.opscode.com/sympa/info/chef](http://lists.opscode.com/sympa/info/chef)
+    + irc: [irc.freenode.net #chef](irc://irc.freenode.net/chef)
     + Hosted Chef:
         - Free for first five clients
         - Free access to Opscode Support: support@opscode.com
@@ -111,7 +111,7 @@ and with virtually no risk of causing problems for your production
 environment.  Moreover, you will have automated methods of falling
 back to the previous version, if the deployment does fail.
 
-# Monitoring Is Just Continuous System/Service Testing
+# Monitoring=Continuous System/Service Testing
 
 * You need both internal and external monitoring
     + We use [Zenoss](http://community.zenoss.org/) and
